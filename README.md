@@ -11,4 +11,6 @@ The script generate the tidy data set based on the following main steps:
 7. Standardise all column names (e.g., removing FULL-STOP, capitalise first letter)
 8. Output the tidy data as "tidy.txt", per the requirement.
 
-# The above steps can be cross-referenced to detailed comments within the run_analysis.R
+Description of "tidy.txt" can be found in "CODEBOOK.md"
+
+Note: The above steps can be cross-referenced to detailed comments within the run_analysis.R
